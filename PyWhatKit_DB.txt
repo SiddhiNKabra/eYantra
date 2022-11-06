@@ -1,0 +1,60 @@
+Date: 5/11/2022
+Time: 10:56
+Phone Number: +919373019456
+Message: whatsapp test message
+--------------------
+Date: 5/11/2022
+Time: 11:1
+Phone Number: +919373019456
+Message: whatsapp test message
+--------------------
+Date: 5/11/2022
+Time: 11:4
+Phone Number: +919373019456
+Message: test msg
+--------------------
+Date: 5/11/2022
+Time: 11:11
+Phone Number: +919422314492
+Message: This is automated message now be there at 2 pm 👍
+--------------------
+Date: 5/11/2022
+Time: 11:11
+Phone Number: +9130585267
+Message: This is automated message now be there at 2 pm 👍
+--------------------
+Date: 5/11/2022
+Time: 11:11
+Phone Number: +917058595785
+Message: This is automated message now be there at 2 pm 👍
+--------------------
+Date: 5/11/2022
+Time: 11:13
+Phone Number: +9130585267
+Message: This is automated message now be there at 2 pm 👍
+--------------------
+Date: 5/11/2022
+Time: 11:20
+Group ID: Innovation Challenge
+Message: Test message
+--------------------
+Date: 5/11/2022
+Time: 11:21
+Group ID: Innovation Challenge
+Message: Test message
+--------------------
+Date: 5/11/2022
+Time: 11:23
+Group ID: Innovation Challenge
+Message: Test message
+--------------------
+Date: 5/11/2022
+Time: 11:25
+Group ID: Loners
+Message: Test message
+--------------------
+Date: 5/11/2022
+Time: 11:26
+Group ID: Loners
+Message: Test message
+--------------------
