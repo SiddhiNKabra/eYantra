@@ -47,13 +47,14 @@ def iinsert(l):
         if(d>0):
             i+=1
         else:
-            bd = open("temp.csv", 'w')
+            bd = open("temp.csv", 'a')
             dl.insert(i,l)
             f = pd.DataFrame(dl)
             print(f)
             l = f.values.tolist()
-            # l = ["fhdg\n","sfsgasfasfa\n","faef\n"]
-            bd.writelines()
+            print(l)
+            for i in l:
+                bd.writelines(i)
 
             # li = ["fsfe","asfaED","AEFAD"]
             # db.writelines(li)
